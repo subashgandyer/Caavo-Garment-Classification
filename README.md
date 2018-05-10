@@ -23,5 +23,9 @@ Output: Class label of Garments
 * PyTorch
 * Fastai
 
+## Journal
+Find the doc with the approach, image engineering, tools and experiments done at every step [here](https://github.com/subashgandyer/Caavo-Garment-Classification/blob/master/CAAVO%20HackerEarth%20Computer%20Vision%20Challenge.pdf)
+
+
 ## Notebook
 Find the Jupyter Notebook [here](https://github.com/subashgandyer/Caavo-Garment-Classification/blob/master/Caavo-2.ipynb)
